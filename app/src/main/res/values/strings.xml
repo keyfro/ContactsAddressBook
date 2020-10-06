@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts Address Book</string>
+    <string name="btn1">View</string>
+    <string name="btn2">View</string>
+    <string name="txtName1">April Anderson</string>
+    <string name="txtAddress1">3896 Saint James Drive</string>
+    <string name="txtPhone1">727-742-9696</string>
+    <string name="txtEmail1">April.a1@gmail.com</string>
+    <string name="txtName2">Alex Adams</string>
+    <string name="txtPhone2">727-123-4567</string>
+    <string name="txtEmail2">Alex.a2@gmail.com</string>
+    <string name="txtAddress2">469 Raindrop Boulevard</string>
+</resources>
